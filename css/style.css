@@ -385,7 +385,7 @@ img {
 }
 
 .section-title .subtitle span {
-	color: var(--lime);
+	color: var(--main-color);
 	font-style: italic;
 }
 
