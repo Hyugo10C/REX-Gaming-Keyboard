@@ -438,8 +438,8 @@ img {
 }
 
 .color.purple {
-	background-color: var(--purple);
-	border-color: var(--purple);
+	background-color: #8400ff;
+	border-color: #8400ff;
 }
 
 .color.cyan {
